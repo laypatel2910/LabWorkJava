@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59ef6072-00a6-4ed9-9c34-d42b582aacb9" name="Changes" comment="initial commit">
+    <list default="true" id="59ef6072-00a6-4ed9-9c34-d42b582aacb9" name="Changes" comment="complete lab - 1">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_1/addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_1/address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_1/area_of_cricle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_1/fahrenheit_to_celsius.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_1/hello_world.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_1/meter_to_feet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +29,19 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="00969681-5fa8-4bfe-a8d4-f0a6ff7dd45c" />
+        <option name="url" value="https://github.com/laypatel2910/LabWorkJava.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -35,7 +55,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Study/Collage/Sem - 2/Java/collage/lab work/lab work/src/lab_1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -43,6 +65,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Study\Collage\Sem - 2\Java\collage\lab work\lab work\src\lab_1" />
+      <recent name="D:\Study\Collage\Sem - 2\Java\collage\lab work\lab work\src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674327588886</updated>
-      <workItem from="1674327590573" duration="362000" />
+      <workItem from="1674327590573" duration="1043000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1674327851839</created>
@@ -60,14 +88,34 @@
       <option name="project" value="LOCAL" />
       <updated>1674327851839</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit test">
+      <created>1674327993011</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674327993011</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="initial commit test" />
+    <MESSAGE value="complete lab - 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete lab - 1" />
   </component>
 </project>
