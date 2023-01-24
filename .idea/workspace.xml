@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59ef6072-00a6-4ed9-9c34-d42b582aacb9" name="Changes" comment="complete lab - 2 1st program">
-      <change afterPath="$PROJECT_DIR$/src/lab_2/Calculate_percentage_and_print_class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_2/diameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_2/largest_number_of_three_numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_2/positive_or_negative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_2/vowel_or_consonants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="59ef6072-00a6-4ed9-9c34-d42b582aacb9" name="Changes" comment="complete lab - 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,7 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1674327588886</updated>
       <workItem from="1674327590573" duration="6722000" />
-      <workItem from="1674582448118" duration="5203000" />
+      <workItem from="1674582448118" duration="5568000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1674327851839</created>
@@ -138,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674582756458</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="complete lab - 2">
+      <created>1674587893585</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674587893585</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,6 +160,7 @@
     <MESSAGE value="initial commit test" />
     <MESSAGE value="complete lab - 1" />
     <MESSAGE value="complete lab - 2 1st program" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete lab - 2 1st program" />
+    <MESSAGE value="complete lab - 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete lab - 2" />
   </component>
 </project>
