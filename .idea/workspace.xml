@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59ef6072-00a6-4ed9-9c34-d42b582aacb9" name="Changes" comment="complete lab - 1 5th" />
+    <list default="true" id="59ef6072-00a6-4ed9-9c34-d42b582aacb9" name="Changes" comment="complete lab - 1 5th">
+      <change afterPath="$PROJECT_DIR$/src/lab_3/Simple_Calculator_using_switch_case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_3/Simple_Calculator_using_switch_case_normal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_3/check_isosceles_equilateral_scalene_or_right_angled_triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_3/factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_3/number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_3/prime_or_not_without_using_function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_3/print_number_divisible_by_2_but_not_divisible_by_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_3/reverse_order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,21 +61,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "create.test.in.the.same.root": "true",
-    "last_opened_file_path": "D:/Study/Collage/Sem - 2/Java/Code With Harry/t_1.java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Study/Collage/Sem - 2/Java/Code With Harry/t_1.java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Study\Collage\Sem - 2\Java\collage\lab work\lab work\src\lab_1" />
@@ -101,7 +111,8 @@
       <option name="presentableId" value="Default" />
       <updated>1674327588886</updated>
       <workItem from="1674327590573" duration="6722000" />
-      <workItem from="1674582448118" duration="5871000" />
+      <workItem from="1674582448118" duration="21471000" />
+      <workItem from="1675073089566" duration="19210000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1674327851839</created>
@@ -145,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674588325551</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="complete lab - 1 5th">
+      <created>1674588425200</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674588425200</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
