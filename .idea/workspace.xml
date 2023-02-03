@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59ef6072-00a6-4ed9-9c34-d42b582aacb9" name="Changes" comment="complete lab - 1 5th">
-      <change afterPath="$PROJECT_DIR$/src/lab_3/Simple_Calculator_using_switch_case.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_3/Simple_Calculator_using_switch_case_normal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_3/check_isosceles_equilateral_scalene_or_right_angled_triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_3/factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_3/number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_3/prime_or_not_without_using_function.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_3/print_number_divisible_by_2_but_not_divisible_by_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_3/reverse_order.java" afterDir="false" />
+    <list default="true" id="59ef6072-00a6-4ed9-9c34-d42b582aacb9" name="Changes" comment="complete lab - 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab_3/factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_3/factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab_3/number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_3/telephone_numberbill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab_3/print_number_divisible_by_2_but_not_divisible_by_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_3/print_number_divisible_by_2_but_not_divisible_by_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +107,8 @@
       <updated>1674327588886</updated>
       <workItem from="1674327590573" duration="6722000" />
       <workItem from="1674582448118" duration="21471000" />
-      <workItem from="1675073089566" duration="19210000" />
+      <workItem from="1675073089566" duration="22401000" />
+      <workItem from="1675413970127" duration="2625000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1674327851839</created>
@@ -163,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674588425200</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="complete lab - 3">
+      <created>1675186123931</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675186123931</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,6 +190,7 @@
     <MESSAGE value="complete lab - 2 1st program" />
     <MESSAGE value="complete lab - 2" />
     <MESSAGE value="complete lab - 1 5th" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete lab - 1 5th" />
+    <MESSAGE value="complete lab - 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete lab - 3" />
   </component>
 </project>
