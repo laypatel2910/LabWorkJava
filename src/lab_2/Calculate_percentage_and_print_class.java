@@ -31,7 +31,7 @@ public class Calculate_percentage_and_print_class {
         }
         else if(percentage >= 60 && percentage <= 70)
         {
-            System.out.println("your result is frist Class");
+            System.out.println("your result is first Class");
         }
         else
         {

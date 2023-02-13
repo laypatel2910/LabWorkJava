@@ -17,7 +17,6 @@ public class body_mass_index
         double height = temporary_height*temporary_height;
         double Body_mass_index;
         Body_mass_index = weight/height;
-        System.out.println("The body_mass_index is :");
-        System.out.println(Body_mass_index);
+        System.out.println("The body_mass_index is :" + Body_mass_index);
     }
 }
