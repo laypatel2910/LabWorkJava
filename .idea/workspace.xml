@@ -4,19 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59ef6072-00a6-4ed9-9c34-d42b582aacb9" name="Changes" comment="complete lab - 4 1st">
-      <change afterPath="$PROJECT_DIR$/src/lab_4/count_number_of_even_or_odd_number_multi_for_loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_4/count_number_of_even_or_odd_number_single_for_loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_4/linear_search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_4/sum_of_divisible_by_either_3_or_5_the_numbers_multi_for_loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_4/sum_of_divisible_by_either_3_or_5_the_numbers_single_for_loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_5/matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_5/multiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_5/sum_of_the_numbers_of_each_row_and_the_sum_of_numbers_of_each_column_of_the_matrix.java" afterDir="false" />
+    <list default="true" id="59ef6072-00a6-4ed9-9c34-d42b582aacb9" name="Changes" comment="complete lab - 4 and lab - 5">
+      <change afterPath="$PROJECT_DIR$/src/lab_6/simple_interest_using_method.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_2/Calculate_percentage_and_print_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_2/Calculate_percentage_and_print_class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_2/body_mass_index.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_2/body_mass_index.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_4/count_number_of_even_or_odd_number.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab_5/multiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_5/multiplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab_5/sum_of_the_numbers_of_each_row_and_the_sum_of_numbers_of_each_column_of_the_matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_5/sum_of_the_numbers_of_each_row_and_the_sum_of_numbers_of_each_column_of_the_matrix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +114,7 @@
       <workItem from="1674582448118" duration="21471000" />
       <workItem from="1675073089566" duration="22401000" />
       <workItem from="1675413970127" duration="4716000" />
-      <workItem from="1675445161754" duration="27568000" />
+      <workItem from="1675445161754" duration="31284000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1674327851839</created>
@@ -194,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675417712241</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="complete lab - 4 and lab - 5">
+      <created>1676314936068</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1676314936068</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,6 +219,7 @@
     <MESSAGE value="complete lab - 1 5th" />
     <MESSAGE value="complete lab - 3" />
     <MESSAGE value="complete lab - 4 1st" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete lab - 4 1st" />
+    <MESSAGE value="complete lab - 4 and lab - 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete lab - 4 and lab - 5" />
   </component>
 </project>

@@ -30,7 +30,7 @@ public class sum_of_the_numbers_of_each_row_and_the_sum_of_numbers_of_each_colum
             for (int j = 0; j < matrix[0].length; j++) {
                 answer += matrix[i][j];
             }
-            System.out.println((i + 1) + " rows ans is : " + answer);
+            System.out.println((i + 1) + " rows sum is : " + answer);
         }
 
         for (int i = 0 ; i < matrix[0].length ; i++) {
@@ -38,7 +38,7 @@ public class sum_of_the_numbers_of_each_row_and_the_sum_of_numbers_of_each_colum
             for (int j = 0; j < matrix.length; j++) {
                 ANSWER += matrix[j][i];
             }
-            System.out.println((i + 1) + " column ans is : " + ANSWER);
+            System.out.println((i + 1) + " column sum is : " + ANSWER);
         }
     }
 }
