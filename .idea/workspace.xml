@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59ef6072-00a6-4ed9-9c34-d42b582aacb9" name="Changes" comment="complete lab - 4 and lab - 5">
-      <change afterPath="$PROJECT_DIR$/src/lab_6/simple_interest_using_method.java" afterDir="false" />
+    <list default="true" id="59ef6072-00a6-4ed9-9c34-d42b582aacb9" name="Changes" comment="complete lab - 6 1st">
+      <change afterPath="$PROJECT_DIR$/src/Extra/armstrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Extra/palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Extra/perfact_num.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_5/multiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_5/multiplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_5/sum_of_the_numbers_of_each_row_and_the_sum_of_numbers_of_each_column_of_the_matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_5/sum_of_the_numbers_of_each_row_and_the_sum_of_numbers_of_each_column_of_the_matrix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +114,7 @@
       <workItem from="1674582448118" duration="21471000" />
       <workItem from="1675073089566" duration="22401000" />
       <workItem from="1675413970127" duration="4716000" />
-      <workItem from="1675445161754" duration="31284000" />
+      <workItem from="1675445161754" duration="37689000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1674327851839</created>
@@ -193,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676314936068</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="complete lab - 6 1st">
+      <created>1676365805860</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1676365805860</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,6 +227,7 @@
     <MESSAGE value="complete lab - 3" />
     <MESSAGE value="complete lab - 4 1st" />
     <MESSAGE value="complete lab - 4 and lab - 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete lab - 4 and lab - 5" />
+    <MESSAGE value="complete lab - 6 1st" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete lab - 6 1st" />
   </component>
 </project>
