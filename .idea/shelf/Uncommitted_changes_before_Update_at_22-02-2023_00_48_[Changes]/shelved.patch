@@ -1,0 +1,187 @@
+Index: src/lab_6/maximum_number_from_given_two_numbers_using_method.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/lab_6/maximum_number_from_given_two_numbers_using_method.java b/src/lab_6/maximum_number_from_given_two_numbers_using_method.java
+new file mode 100644
+--- /dev/null	(date 1676610258684)
++++ b/src/lab_6/maximum_number_from_given_two_numbers_using_method.java	(date 1676610258684)
+@@ -0,0 +1,29 @@
++package lab_6;
++
++import java.util.Scanner;
++
++
++public class maximum_number_from_given_two_numbers_using_method {
++    float maximum_number(float x, float y) {
++        if (x>=y) {
++            return x;
++        }
++        else {
++            return y;
++        }
++    }
++    public static void main(String[] args) {
++        Scanner sc =  new Scanner(System.in);
++        maximum_number_from_given_two_numbers_using_method maximum = new maximum_number_from_given_two_numbers_using_method();
++        System.out.println("Enter a number1 :");
++        float number_1 = sc.nextFloat();
++        System.out.println("Enter a number2 :");
++        float number_2 = sc.nextFloat();
++
++        float maximum_number = maximum.maximum_number(number_1,number_2);
++
++        System.out.println( maximum_number + " is largest number");
++
++    }
++
++}
+Index: src/lab_6/prime_number_using_method.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/lab_6/prime_number_using_method.java b/src/lab_6/prime_number_using_method.java
+new file mode 100644
+--- /dev/null	(date 1676625668495)
++++ b/src/lab_6/prime_number_using_method.java	(date 1676625668495)
+@@ -0,0 +1,25 @@
++package lab_6;
++
++import java.util.Scanner;
++
++public class prime_number_using_method {
++
++    int prime (int n){
++        int i;
++        for (i = 2;i<=n;i++);
++        {
++            if(n % i == 0)
++                return 1;
++            else
++                return 0;
++        }
++    }
++    public static void main(String[] args) {
++        Scanner sc = new Scanner(System.in);
++        System.out.println("Enter a number to check prime or not : ");
++        int number = sc.nextInt();
++        prime_number_using_method prime = new prime_number_using_method();
++        int i;
++
++    }
++}
+Index: src/lab_6/Fibonacci_series_using_method.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/lab_6/Fibonacci_series_using_method.java b/src/lab_6/Fibonacci_series_using_method.java
+new file mode 100644
+--- /dev/null	(date 1676624588096)
++++ b/src/lab_6/Fibonacci_series_using_method.java	(date 1676624588096)
+@@ -0,0 +1,62 @@
++package lab_6;
++
++import java.util.Scanner;
++
++public class Fibonacci_series_using_method {
++
++    int Fibonacci_series(int n){
++
++    return n;
++    }
++    public static void main(String[] args) {
++        Scanner sc = new Scanner(System.in);
++        System.out.println("Enter a number : ");
++        int number = sc.nextInt();
++        Fibonacci_series_using_method series = new Fibonacci_series_using_method();
++        int answer = series. Fibonacci_series(number);
++        for (int i = 1;i<=number;i++)
++        System.out.println(answer + "+");
++
++    }
++}
++/*
++#include <stdio.h>
++
++
++int fib_recursive(int n)
++{
++    if(n==1 || n==2){
++        return n-1;
++    }
++    else{
++        return fib_recursive(n-1) + fib_recursive(n-2);
++    }
++}
++
++
++int fib_iterative(int n)
++{
++    int a = 0;
++    int b = 1;
++
++    for (int i = 0; i < n-1; i++)
++    {
++        b = a+b; //1 for iteration 1
++        a = b-a; //1 for iteration 1
++
++    }
++
++    return a;
++}
++
++int main()
++{
++    int number;
++    printf("Enter the index to get fibonacci series\n");
++    scanf("%d", &number);
++    printf("The value of fibonacci number at position no %d using iterative approach is %d\n",number, fib_iterative(number));
++    printf("The value of fibonacci number at position no %d using recursive approach is %d\n", number, fib_recursive(number));
++    return 0;
++}
++ */
++
+Index: src/Extra/Print_N_prime_numbers_with_their_Sum.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Extra/Print_N_prime_numbers_with_their_Sum.java b/src/Extra/Print_N_prime_numbers_with_their_Sum.java
+new file mode 100644
+--- /dev/null	(date 1676969252793)
++++ b/src/Extra/Print_N_prime_numbers_with_their_Sum.java	(date 1676969252793)
+@@ -0,0 +1,31 @@
++package Extra;
++
++import java.util.Scanner;
++
++public class Print_N_prime_numbers_with_their_Sum {
++     public  static int method (int n) {
++         int i;
++         for (i = 2; i * i <= n; i++) {
++             if (i % n == 0) {
++                 return 0;
++             }
++         }
++         return 1;
++     }
++        public static void main(String[] args) {
++        Scanner sc = new Scanner(System.in);
++        System.out.println("Enter a number :");
++        int number = sc.nextInt();
++        int sum = 0;
++        int i = 0;
++        while (i<=number){
++            int prime = method(i);
++            if (prime == 1){
++                System.out.println(i);
++                sum+= i;
++            }
++            i++;
++        }
++            System.out.println("The sum of prime number : " + sum);
++    }
++}
