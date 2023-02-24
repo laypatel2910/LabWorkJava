@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59ef6072-00a6-4ed9-9c34-d42b582aacb9" name="Changes" comment="complete lab - 4">
-      <change afterPath="$PROJECT_DIR$/src/lab_6/Fibonacci_series_using_method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_6/Fibonacci_series_without_using_method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_6/GCD_of_two_numbers_using_method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_6/calculates_area_of_circle_triangle_and_square_using_method_overloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_6/maximum_number_from_given_two_numbers_using_method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_6/prime_number_using_method.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="59ef6072-00a6-4ed9-9c34-d42b582aacb9" name="Changes" comment="complete lab - 4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,7 +113,7 @@
       <workItem from="1675413970127" duration="4716000" />
       <workItem from="1675445161754" duration="49477000" />
       <workItem from="1676908594611" duration="14551000" />
-      <workItem from="1677004458939" duration="17372000" />
+      <workItem from="1677004458939" duration="17673000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1674327851839</created>
@@ -228,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677218129473</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="complete lab - 4">
+      <created>1677232431319</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1677232431319</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
