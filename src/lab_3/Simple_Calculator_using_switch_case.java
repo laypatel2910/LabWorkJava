@@ -65,13 +65,13 @@ public class Simple_Calculator_using_switch_case {
                     if(i == 1)
                     {
                         System.out.println("Enter a number " + i + " :");
-                        double frist_number = sc.nextDouble();
-                        if (frist_number == 0)
+                        double first_number = sc.nextDouble();
+                        if (first_number == 0)
                         {
                             System.out.println("Any number can not division by zero");
                             break;
                         }
-                        division = frist_number;
+                        division = first_number;
                         continue;
                     }
                     System.out.println("Enter a number " + i + " :");
