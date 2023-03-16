@@ -13,9 +13,9 @@ public class maximum_number_from_given_two_numbers_using_method {
         // else
         //     return y;
         // or
-        // return (x>y)?x:y;
         // or
-        return Math.max(x, y);
+        // return Math.max(x, y);
+        return (x>y)?x:y;
     }
     public static void main(String[] args) {
         Scanner sc =  new Scanner(System.in);
