@@ -20,14 +20,14 @@ public class calculates_area_of_circle_triangle_and_square_using_method_overload
         System.out.println("3 for Area of square ");
         int number = sc.nextInt();
         switch (number) {
-            case 1 -> {
+            case 1:
                 System.out.println("area_of_circle");
                 System.out.println("Enter a radius :");
                 double radius = sc.nextDouble();
                 double Area = area(radius);
                 System.out.println("Area of circle : " + Area);
-            }
-            case 2 -> {
+                break;
+            case 2:
                 System.out.println("area_of_triangle");
                 System.out.println("Enter a Height : ");
                 double height = sc.nextDouble();
@@ -35,15 +35,17 @@ public class calculates_area_of_circle_triangle_and_square_using_method_overload
                 double base = sc.nextDouble();
                 double area = area(height, base);
                 System.out.println("Area of triangle : " + area);
-            }
-            case 3 -> {
+                break;
+            case 3:
                 System.out.println("area_of_square");
                 System.out.println("Enter a Side : ");
                 int side = sc.nextInt();
                 int AREA = area(side);
                 System.out.println("Area of square : " + AREA);
-            }
-            default -> System.out.println("enter a number between 1 to 3 ");
+                break;
+            default:
+                System.out.println("enter a number between 1 to 3 ");
+                break;
         }
     }
 }
