@@ -5,13 +5,15 @@ import java.util.Scanner;
 
 public class maximum_number_from_given_two_numbers_using_method {
     float maximum_number(float x, float y) {
-    //  float c = (x>=y)?x:y;
+        //  float c = (x>=y)?x:y;
         // or
-        /*if (x>=y) {
-            return x;
-        }
-        else
-            return y;*/
+        // if (x>=y) {
+        //     return x;
+        // }
+        // else
+        //     return y;
+        // or
+        // return (x>y)?x:y;
         // or
         return Math.max(x, y);
     }
