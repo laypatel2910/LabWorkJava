@@ -4,7 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59ef6072-00a6-4ed9-9c34-d42b582aacb9" name="Changes" comment="complete lab - 4" />
+    <list default="true" id="59ef6072-00a6-4ed9-9c34-d42b582aacb9" name="Changes" comment="lab - 10">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Extra/Count_number_of_digits_of_a_number_using_While_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Extra/e_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Extra/patternrs/patterns_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Extra/patternrs/patterns_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Extra/patternrs/patterns_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Extra/patternrs/patterns_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Extra/patternrs/patterns_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Extra/patternrs/patterns_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Extra/patternrs/patterns_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Extra/patternrs/patterns_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Extra/patternrs/patterns_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Extra/patternrs/patterns_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Extra/patternrs/patterns_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_10/Get_Account_Details_And_Interest_Calculating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_10/Use_Of_Final_Keyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_10/Use_Of_Method_Overriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_10/Use_Of_Super_Keyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_11/p_11_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_7/Bank_Account_Details_get_and_display_using_class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_7/Candidate_Details_get_and_display_using_class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_7/Circle_class_with_area_and_perimeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_7/Employee_Details_get_and_display_using_class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_7/Student_Details_get_and_display_using_class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_7/Time_class_with_hour_and_minute_add_two_time_objects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_8/Student_Details_Display_using_class_And_Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_8/Sum_of_2_Complex_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_8/Volume_of_Box_Using_Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_8/complex_num.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_9/Use_of_this_Keyword_And_Can_Access_The_Static_Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_9/p_9_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_9/p_9_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_9/static_block_will_be_executed_before_main_method_in_a_class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22-02-2023_00_48_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22-02-2023_00_48__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,27 +89,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "create.test.in.the.same.root": "true",
-    "last_opened_file_path": "D:/Study/Collage/Sem - 2/Java/Code With Harry/t_1.java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Study/Collage/Sem - 2/Java/Code With Harry/t_1.java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Study\Collage\Sem - 2\Java\collage\lab work\lab work\src\lab_1" />
@@ -113,7 +153,35 @@
       <workItem from="1675413970127" duration="4716000" />
       <workItem from="1675445161754" duration="49477000" />
       <workItem from="1676908594611" duration="14551000" />
-      <workItem from="1677004458939" duration="17673000" />
+      <workItem from="1677004458939" duration="18969000" />
+      <workItem from="1677312945723" duration="1620000" />
+      <workItem from="1677319435202" duration="20932000" />
+      <workItem from="1677574019011" duration="8000" />
+      <workItem from="1677579397676" duration="31850000" />
+      <workItem from="1678431390379" duration="734000" />
+      <workItem from="1678777353076" duration="5933000" />
+      <workItem from="1678859976558" duration="657000" />
+      <workItem from="1678933698483" duration="9955000" />
+      <workItem from="1679042481211" duration="4621000" />
+      <workItem from="1679075177979" duration="27634000" />
+      <workItem from="1680549857052" duration="718000" />
+      <workItem from="1680551082748" duration="2784000" />
+      <workItem from="1680804152459" duration="9334000" />
+      <workItem from="1681025474937" duration="203000" />
+      <workItem from="1681025705115" duration="15609000" />
+      <workItem from="1681807904255" duration="4538000" />
+      <workItem from="1681929826370" duration="338000" />
+      <workItem from="1681964450774" duration="519000" />
+      <workItem from="1682158670439" duration="3325000" />
+      <workItem from="1682837919041" duration="1271000" />
+      <workItem from="1682850463176" duration="2787000" />
+      <workItem from="1682880451335" duration="3069000" />
+      <workItem from="1682959602499" duration="6097000" />
+      <workItem from="1683000892282" duration="4596000" />
+      <workItem from="1683396157582" duration="86000" />
+      <workItem from="1683396593503" duration="1240000" />
+      <workItem from="1683701213462" duration="1715000" />
+      <workItem from="1683719644118" duration="11935000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1674327851839</created>
@@ -227,7 +295,56 @@
       <option name="project" value="LOCAL" />
       <updated>1677232431319</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="complete lab - 4">
+      <created>1677232687739</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1677232687739</updated>
+    </task>
+    <task id="LOCAL-00018" summary="complete lab - 4">
+      <created>1678994137123</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1678994137123</updated>
+    </task>
+    <task id="LOCAL-00019" summary="complete lab - 4">
+      <created>1678994234183</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1678994234183</updated>
+    </task>
+    <task id="LOCAL-00020" summary="complete lab - 4">
+      <created>1678994276096</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1678994276096</updated>
+    </task>
+    <task id="LOCAL-00021" summary="complete lab - 4">
+      <created>1678994499164</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1678994499164</updated>
+    </task>
+    <task id="LOCAL-00022" summary="complete lab - 4">
+      <created>1678994710360</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1678994710360</updated>
+    </task>
+    <task id="LOCAL-00023" summary="lab - 10">
+      <created>1681142124057</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1681142124057</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,7 +375,22 @@
     <MESSAGE value="extra work" />
     <MESSAGE value="complete extra work" />
     <MESSAGE value="complete lab - 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete lab - 4" />
+    <MESSAGE value="lab - 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab - 10" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NoClassDefFoundError" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/lab_work$GCD_of_two_numbers_using_while_loop.ic" NAME="GCD_of_two_numbers_using_while_loop Coverage Results" MODIFIED="1677229409668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
